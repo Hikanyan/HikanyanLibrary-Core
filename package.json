@@ -7,5 +7,8 @@
        "author": {
          "name": "Hikanyan"
        },
+       "directories": {
+         "runtime": "Runtime"
+       },
        "dependencies": {}
      }
